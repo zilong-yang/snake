@@ -15,7 +15,7 @@ import javafx.stage.Stage;
 /**
  * Created by Z on 12/14/2018.
  */
-public class SnakeClient extends Application {
+public class SnakeTest extends Application {
 
     @Override
     public void start(Stage primaryStage) {
